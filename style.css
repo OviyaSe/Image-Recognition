@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(rgb(249, 189, 255), rgb(254, 255, 184));
+    color: teal;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+.name_of_objects{
+    color:tomato;
+}
+#camera{
+    border: 2px dashed blueviolet;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_name,#result_accuracy{
+    color: indigo;
+}
